@@ -18,8 +18,6 @@ body {
 	font-size:14px; 
 	font-family: "微软雅黑", Arial, Helvetica, sans-serif; 
 }
-/*页面初始化*/
-
 #header{
 	width:100%;
 	height:450px;
@@ -49,7 +47,7 @@ body #header .nav{
 	display:inline;
 	float:right;
 }
-/*头部结束*/
+
 #main{
 	position: relative;
 }
@@ -61,7 +59,7 @@ body #header .nav{
 	border-bottom: 2px solid #73AEA6;
     margin: 0 auto;
 }
-/*关于我们*/
+
 .sketch{
 	width:50%;
 	color:#666;
@@ -89,13 +87,7 @@ body #header .nav{
     border-right: 10px solid #73AEA6;
     border-bottom: 5px solid transparent;
 }
-/*#introduce p{
-background-color:#73AEA6; 
-margin-left: 20px;
-margin-top:10px;
-float:left;
-display: none;
-}*/
+
 #introduce img{
 float:left;
 background-image:url(http://kming.top/img/i/head.png);
@@ -105,7 +97,7 @@ background-image:url(http://kming.top/img/i/head.png);
 	padding:0px 0px 0px 28px;
 	float:left;
 }
-/*介绍结束*/
+
 #task div{
 	width:200px;
 	height:250px;
@@ -152,7 +144,7 @@ background-image:url(http://kming.top/img/i/head.png);
      -khtml-opacity: 0.7;  
      opacity: 0.7; 
 }
-/*反转*/
+
 #header .nav a:hover,
 #header .nav a:focus{
 	background-color:#8EC2B6; 
@@ -166,9 +158,9 @@ background-image:url(http://kming.top/img/i/head-show.png);
 #task a:hover,
 #task a:focus{ 
 background-color: #f6df5e;
-color: #fff;
+color: #666;
 }
-/*指定分辨率*/
+
 @media screen and (max-width:750px){
     #header{
 	height:330px;
