@@ -24,7 +24,7 @@ body {
 	width:100%;
 	height:450px;
 	border-bottom: 2px solid #73AEA6;
-	background-image:url(http://kming.top/i/bd.jpg);
+	background-image:url(http://kming.top/img/i/bd.jpg);
 	background-position:center 0px ;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -34,7 +34,7 @@ body #header .nav{
 	height:30px;
 	overflow:hidden;
 	background-color:#444;
-	background-image:url(http://kming.top/i/sign.png);
+	background-image:url(http://kming.top/img/i/sign.png);
 	background-repeat: no-repeat;
 	background-position: 10px;
 	 filter:alpha(opacity=70);  
@@ -98,7 +98,7 @@ display: none;
 }*/
 #introduce img{
 float:left;
-background-image:url(http://kming.top/i/head.png);
+background-image:url(http://kming.top/img/i/head.png);
 }
 .people{
 	margin-top:20px;
@@ -113,7 +113,7 @@ background-image:url(http://kming.top/i/head.png);
 	position: relative;
 	left:3%;
 	background-color:#f4f4f4;
-	background-image:url(http://kming.top/i/bone.png);
+	background-image:url(http://kming.top/img/i/bone.png);
 	background-repeat: no-repeat; 
 	background-position: center 0;
     border: 1px solid #e6e6e6;
@@ -144,7 +144,7 @@ background-image:url(http://kming.top/i/head.png);
 #footer{
 	height:30px;
 	background-color:#444;
-	background-image:url(http://kming.top/i/sign.png);
+	background-image:url(http://kming.top/img/i/sign.png);
 	background-repeat: no-repeat;
 	background-position:50%;
 	 filter:alpha(opacity=70);  
@@ -161,7 +161,7 @@ background-image:url(http://kming.top/i/head.png);
 }
 #introduce img:hover,
 #introduce img:focus{ 
-background-image:url(http://kming.top/i/head-show.png);
+background-image:url(http://kming.top/img/i/head-show.png);
 }
 #task a:hover,
 #task a:focus{ 
@@ -173,12 +173,12 @@ color: #fff;
     #header{
 	height:330px;
 	border-bottom: 2px solid #73AEA6;
-	background-image:url(http://kming.top/i/bd-750.jpg);
+	background-image:url(http://kming.top/img/i/bd-750.jpg);
 }
 @media screen and (max-width:460px){
     #header{
 	height:180px;
 	border-bottom: 2px solid #73AEA6;
-	background-image:url(http://kming.top/i/bd-460.jpg);
+	background-image:url(http://kming.top/img/i/bd-460.jpg);
 }
 }
