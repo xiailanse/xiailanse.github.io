@@ -1,8 +1,8 @@
 
     define([], function () {
         return {
-            page: 1,
-            offset: 20,
+            page: 3,
+            offset: 18,
             init: function () {
                 var that = this;
                 $.getJSON("/photo/output.json", function (data) {
