@@ -1,6 +1,6 @@
     "use strict";
     const fs = require("fs");
-    const path = "../../public/photos";
+    const path = "../../public/img/photos";
 
     fs.readdir(path, function (err, files) {
         if (err) {
